@@ -1,4 +1,4 @@
-### Hi there 👋
+Hey there! My name's Nick Arabidis and I'm currently a student from Greece. I love learning and programming projects. I specialize in using C#, Python, HTML, CSS, JS and more. Some of my projects are a **Stock Management Store App**, a **Blur App with ROIS** for images, a **Bakery Website** and many more, which you can find in my Github profile.
 
 <!--
 **nickarabidis/nickarabidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
